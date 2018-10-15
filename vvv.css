@@ -1,0 +1,93 @@
+html{
+    color:#ffffff;
+    font-size:10px;
+    
+    }
+body{
+    font-size:62.5%;
+    margin:0;
+    background:#eff0f4;
+    }
+
+.coll{
+    
+    background:#66cccc;
+    height:5rem;
+    
+    }
+.box1{
+    text-align: center;
+    font-size:3rem;}
+.ter{
+    position:fixed;
+    top:1rem;
+    left:1rem;
+
+    font-size :2rem;
+}
+.coo{ 
+    position:fixed;
+    top:1rem;
+    right:1rem;
+    font-size: 2rem;
+}
+.ipe{
+    
+    vertical-align: middle;
+    margin:1rem;
+}
+.ju{
+    
+    vertical-align: middle;
+    margin:1rem;
+}
+
+.boox{
+    white-space: nowrap;
+    background:#ffffff;
+    margin-top:1rem;
+}
+.ground2{
+    white-space: nowrap;
+    background:#ffffff;
+    margin-top:1rem;
+}
+.lock{
+    
+    vertical-align: middle;
+    margin:1rem;
+    
+    
+}
+.lov{
+    
+    vertical-align: middle;
+    margin:1rem;}
+    
+.colo{
+    text-align: center;
+    font-size:2.5rem;
+    background:#66cccc;
+    margin-top:1.5rem;
+
+}
+
+.content{
+    vertical-align: middle;
+    font-size: 2rem;
+    border: 0;
+
+    }
+.qwer{
+    vertical-align: middle;
+    font-size:2rem;
+    border: 0;
+    
+    }  
+    
+.zreo{
+    font-size:1.5rem;
+    float:right;
+    color:#66cccc;
+     }
+
